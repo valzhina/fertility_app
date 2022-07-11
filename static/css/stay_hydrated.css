@@ -1,0 +1,118 @@
+/* Stay Hydrated Page */
+
+/* The body has an image that spans the entire size of the page.
+   Everything is centered and in white. */
+
+body {
+    /* background: #333 url("/static/img/callum-shaw-bPVumyN7-yk-unsplash.jpg"); */
+    background-size: cover;
+
+    color: #142b6f;
+    text-align: center;
+}
+
+/* site-wrapper and site-wrapper-inner are to vertically center content using
+   table/table-cell vertical centering. */
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 3rem;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #fdd50d;
+    border-color: #fdd50d;
+    color:#142b6f
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #142b6f;
+    border-color: #142b6f;
+}
+
+.form_supp {
+    padding: 20px 50px;
+}
+
+.heading_supp {
+    padding-top: 40px;
+}
+
+.subheading_supp {
+    padding-bottom: 20px;
+}
+
+.form-items1 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.form-items2 {
+    padding-top: 20px;
+    padding-left: 12px;
+}
+
+.form-items3 {
+    padding: 10px 20px;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.container{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    
+}
+
+.container2{
+    /* width: 100%; */
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: center;
+    padding: 0 2rem;
+    align-items: center; 
+}
+
+.container3{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: right;
+    padding: 0 2rem;
+    align-items: center; 
+}
+
+.site-wrapper {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.site-wrapper-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/* The footer always appears at the bottom of the browser window. */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;  /* required because fixed position */
+}
+
+.modal-title{
+    font-size: 1.4rem;
+    color: rgb(2, 2, 2);
+}
+
+.form-lable{
+    font-size: 1.4rem;
+    color: rgb(2, 2, 2);
+}

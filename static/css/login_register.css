@@ -1,0 +1,45 @@
+/* Fertility Login_register page */
+
+/* The body has an image that spans the entire size of the page.
+   Everything is centered and in white. */
+
+   body {
+    background: #333 url("/static/img/daniel-jerico-iJP-hMgs_Qc-unsplash.jpg");
+    background-size: cover;
+
+    color: #142b6f;
+    text-align: center;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 3rem;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #fdc50d;
+    border-color: #fdc50d;
+    color:#142b6f
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #142b6f;
+    border-color: #142b6f;
+}
+
+.heading_supp {
+    padding-top: 40px;
+ }
+ 
+ .form-items1{
+    width: 90%;
+    margin-left: 5%;
+ }
+ 
+ 
+ .form-items2 {
+    margin-top: 1.2%;
+ }

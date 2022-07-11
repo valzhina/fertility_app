@@ -1,0 +1,130 @@
+/* Fertility Login_register page */
+
+/* The body has an image that spans the entire size of the page.
+   Everything is centered and in white. */
+
+   body {
+    /* background: #333 url("/static/img/rafay-ansari-prhMYojFJRY-unsplash.jpg"); */
+    background-size: cover;
+
+    color: #142b6f;
+    text-align: center;
+   }
+
+   input {border:0;outline:0;}
+   input:focus {outline:none!important;}
+   input {color:#142b6f;}
+  
+   select {border:0;outline:0;}
+   select:focus {outline:none!important;}
+   select {color:#142b6f;}
+
+   /* .btn-lg.round {
+	    border-radius: 1rem;
+    } */
+
+    .btn-group-lg>.btn, .btn-lg {
+        padding: .5rem 1rem;
+        font-size: 1.25rem;
+        border-radius: 3rem;
+    }
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: #fdd50d;
+        border-color: #fdd50d;
+        color:#142b6f
+    }
+
+    
+    .btn-primary {
+        color: #fff;
+        background-color: #142b6f;
+        border-color: #142b6f;
+    }
+
+    .form_supp {
+        padding: 20px 50px;
+    }
+   
+    .heading_supp {
+        padding-top: 40px;
+    }
+
+    .subheading_supp {
+        padding-bottom: 20px;
+    }
+
+    .form-items1 {
+        padding-top: 20px;
+        padding-left: 20px;
+    }
+
+    .form-items2 {
+        padding-top: 20px;
+        padding-left: 12px;
+    }
+
+    .form-items3 {
+        padding: 10px 20px;
+        padding-bottom: 20px;
+        text-align: left;
+    }
+
+    .row {
+        justify-content: center;
+    }
+
+    table, th, td {
+        border:0.5px solid #142b6f;
+    }
+
+    .box1{
+        margin-top: 5%;
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: left;
+        padding: 0 2rem;
+        align-items: center; 
+    }
+    
+    .upcoming-form {
+        background-color: #f2f1f5;
+        padding: 48px 36px;
+        box-sizing: border-box;
+        display: block;
+    }
+
+
+    .upcoming-form_h {
+        margin-top: 24px;
+        margin-bottom: 24px;
+        flex-direction: column!important;
+        display: flex!important;
+    }
+
+    .flex-column {
+        flex-direction: column!important;
+        display: flex!important;
+        box-sizing: border-box;
+    }
+
+    .upcoming-form_text {
+        margin-bottom: 8px;
+        align-items: center!important;
+        display: flex!important;
+    }
+
+    i{
+        display:block;
+        font-size: 200%;  
+    }
+
+    .box2{
+        margin-top: 5%;
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: center;
+        padding: 0 2rem;
+        align-items: center; 
+    }
