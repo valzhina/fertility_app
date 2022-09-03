@@ -5,10 +5,10 @@ that are tailored to maximize chances of pregnancy especially later in life.
 
 ## Contents
 
-- [Features](https://github.com/valzhina/fertility_app/new/master?readme=1#features)
-- [Technologies and Stack](https://github.com/valzhina/fertility_app/new/master?readme=1#technologies-and-stack)
-- [Set-up & Installation](https://github.com/valzhina/fertility_app/new/master?readme=1#set-up--installation)
-- [About the Developer](https://github.com/valzhina/fertility_app/new/master?readme=1#about-the-developer)
+- [Features](https://github.com/valzhina/fertility_app#features)
+- [Technologies and Stack](https://github.com/valzhina/fertility_app#technologies-and-stack)
+- [Set-up & Installation](https://github.com/valzhina/fertility_app#set-up--installation)
+- [About the Developer](https://github.com/valzhina/fertility_app#about-the-developer)
 
 ## Features
 User registration and log-in
