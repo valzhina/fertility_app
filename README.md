@@ -3,6 +3,8 @@ Fertility App is, a place where you can build your own fertility profile combini
 your fertility tracking elements in one place. The project is about fertility management tools 
 that are tailored to maximize chances of pregnancy especially later in life.  
 
+:desktop_computer:  [Link to video](https://www.youtube.com/watch?v=Zw-IGMnDgfY)
+
 ## Contents
 
 - [Features](https://github.com/valzhina/fertility_app#features)
